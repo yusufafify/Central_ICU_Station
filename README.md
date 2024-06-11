@@ -108,3 +108,12 @@ source .venv/bin/activate
 pip install -r requirements.txt
 ```
 ## Screenshots
+![Screenshot 2024-06-11 094802](https://github.com/yusufafify/Central_ICU_Station/assets/115397064/6138d75a-10ae-46e7-8042-2ba5c0e5355a)
+![Screenshot 2024-06-11 095010](https://github.com/yusufafify/Central_ICU_Station/assets/115397064/ef183d83-724a-4f13-bb31-5e6bfe3bb812)
+![Screenshot 2024-06-11 095029](https://github.com/yusufafify/Central_ICU_Station/assets/115397064/2147bd59-7d08-4d5d-80ee-9e566bce30a4)
+![Screenshot 2024-06-11 095048](https://github.com/yusufafify/Central_ICU_Station/assets/115397064/3ac15288-bf57-47f5-bb35-4457a8258986)
+![Screenshot 2024-06-11 095147](https://github.com/yusufafify/Central_ICU_Station/assets/115397064/b806faf7-10a8-4cb3-bf00-8998ff84d3b9)
+![Screenshot 2024-06-11 095218](https://github.com/yusufafify/Central_ICU_Station/assets/115397064/bdcef4a7-436a-4633-a13b-92a23c0d48f7)
+![Screenshot 2024-06-11 095243](https://github.com/yusufafify/Central_ICU_Station/assets/115397064/309216f1-7dbc-4a31-8bc0-d398302f8e53)
+
+## Contributors
