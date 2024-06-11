@@ -18,7 +18,7 @@ def getdataandplot(graph1,graph2,graph3,value1,value2,value3,status1,status2,sta
 
     while True:
         try:
-            response = requests.get('http://192.168.100.5:5000/data')
+            response = requests.get('http://your network ip address and port number/data')
             response = response.json()
 
             patient=list(response['patient1'])
