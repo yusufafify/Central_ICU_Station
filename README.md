@@ -18,7 +18,7 @@ parameters to indicate hypertension is the heart rate.
 - [Prerequisites](#prerequisites)
 - [Installation](#installation)
 - [Screen Shots](#screenshots)
-- [Contributors](#contributors)
+
 
 
 ## Introduction
@@ -116,4 +116,12 @@ pip install -r requirements.txt
 ![Screenshot 2024-06-11 095218](https://github.com/yusufafify/Central_ICU_Station/assets/115397064/bdcef4a7-436a-4633-a13b-92a23c0d48f7)
 ![Screenshot 2024-06-11 095243](https://github.com/yusufafify/Central_ICU_Station/assets/115397064/309216f1-7dbc-4a31-8bc0-d398302f8e53)
 
-## Contributors
+## Team Members:
+
+| Name           | GitHub Username          |
+|----------------|--------------------------|
+| Youssef Afify       | [Youssef Afify](https://github.com/yusufafify)       |
+| Youssef Awad  | [Youssef Awad](https://github.com/Youssef-Awad2004)     |
+| Tarek Waleed  | [Tarek Waleed](https://github.com/Tarek-Waleed)     |
+| Alia Tarek  | [Alia Tarek](https://github.com/aliatarek)     |
+| Hamsa Saber | [Hamsa Saber](https://github.com/aliatarek)     |
