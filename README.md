@@ -81,7 +81,7 @@ The setup mimics a real-world ICU environment where patient data is collected fr
 ## Installation
 1- clone the repository
 ```
-git clone
+git clone https://github.com/yusufafify/Central_ICU_Station.git
 ```
 2- navigate to the server dir and install the dependencies
 ```
