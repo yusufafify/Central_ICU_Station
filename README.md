@@ -118,7 +118,7 @@ pip install -r requirements.txt
 
 ## Team Members:
 
-| Name           | GitHub Username          |
+| Name           | GitHub Profile        |
 |----------------|--------------------------|
 | Youssef Afify       | [Youssef Afify](https://github.com/yusufafify)       |
 | Youssef Awad  | [Youssef Awad](https://github.com/Youssef-Awad2004)     |
