@@ -17,6 +17,8 @@ parameters to indicate hypertension is the heart rate.
 - [Architecture](#architecture)
 - [Prerequisites](#prerequisites)
 - [Installation](#installation)
+- [Screen Shots](#screenshots)
+- [Contributors](#contributors)
 
 
 ## Introduction
@@ -105,3 +107,4 @@ source .venv/bin/activate
 ```
 pip install -r requirements.txt
 ```
+## Screenshots
